@@ -3,12 +3,12 @@
 This project is developed as **Task 2** of my **CodeAlpha Artificial Intelligence Domain Internship**.  
 It demonstrates how to build a simple Language Translator using **GPT-4.1-mini**, **Streamlit**, and **Python**.
 
+Live Link : https://language-translator-wwsps3mm3ftmodnktt7zdy.streamlit.app/
+
 ## Features
 - Translate text into multiple languages
 - Streamlit UI + CLI support
 - Uses OpenAI API securely with `.env`
-
-Live Link : https://language-translator-wwsps3mm3ftmodnktt7zdy.streamlit.app/
 
 ## How to Run
 ```bash
