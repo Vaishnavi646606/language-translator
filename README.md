@@ -16,4 +16,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-Live Link : 
+Live Link : https://language-translator-wwsps3mm3ftmodnktt7zdy.streamlit.app/
