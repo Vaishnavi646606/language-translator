@@ -8,6 +8,8 @@ It demonstrates how to build a simple Language Translator using **GPT-4.1-mini**
 - Streamlit UI + CLI support
 - Uses OpenAI API securely with `.env`
 
+Live Link : https://language-translator-wwsps3mm3ftmodnktt7zdy.streamlit.app/
+
 ## How to Run
 ```bash
 python -m venv venv
@@ -16,4 +18,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-Live Link : https://language-translator-wwsps3mm3ftmodnktt7zdy.streamlit.app/
+
